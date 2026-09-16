@@ -1,0 +1,6 @@
+# Copy to key.properties (gitignored). Use the real upload keystore.
+# Forward slashes work for an absolute Windows path. Do not commit passwords.
+storeFile=
+storePassword=
+keyAlias=
+keyPassword=

@@ -1,0 +1,3 @@
+// Copy to Signing.xcconfig on the signing Mac and enter your Apple team ID.
+// Keep the existing bundle ID com.tryhub.tryhubApp unless the app owner changes it.
+// DEVELOPMENT_TEAM = your actual Apple Developer team ID
